@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RPG-Test/static/css/main.f239799a.css",
+    "main.js": "/RPG-Test/static/js/main.71804508.js",
+    "index.html": "/RPG-Test/index.html",
+    "main.f239799a.css.map": "/RPG-Test/static/css/main.f239799a.css.map",
+    "main.71804508.js.map": "/RPG-Test/static/js/main.71804508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f239799a.css",
+    "static/js/main.71804508.js"
+  ]
+}
